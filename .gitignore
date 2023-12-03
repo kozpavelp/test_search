@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+actions/__pycache__/
+db/__pycache__/
+handlers/__pycache__/
+schemas/__pycache__/
